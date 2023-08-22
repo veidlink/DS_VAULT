@@ -11,6 +11,36 @@
             "id": "c01d1c35aa372947",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/7.png"
+              }
+            }
+          },
+          {
+            "id": "85d98fea46198564",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/1.png"
+              }
+            }
+          },
+          {
+            "id": "1a17018bd4358829",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/6.png"
+              }
+            }
+          },
+          {
+            "id": "28954d6f67d2ffde",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
@@ -20,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,20 +187,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c01d1c35aa372947",
+  "active": "28954d6f67d2ffde",
   "lastOpenFiles": [
-    "NN",
-    "Pasted image 20230821190847.png.md",
-    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
-    "imgs/1.png",
-    "imgs/9.png",
-    "imgs/8.png",
-    "imgs/7.png",
     "imgs/6.png",
+    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+    "imgs/7.png",
     "imgs/5.png",
     "imgs/4.png",
     "imgs/3.png",
     "imgs/2.png",
+    "imgs/1.png",
+    "imgs/7.png",
+    "NN",
+    "Pasted image 20230821190847.png.md",
     "image_path.png.md",
     "imgs/Pasted image 20230821223917.png",
     "imgs",
