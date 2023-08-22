@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2cc081d15288ba",
+        "id": "9d202f02f4ea6af0",
         "type": "tabs",
         "children": [
           {
-            "id": "40ea04c391ce46ee",
+            "id": "c01d1c35aa372947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
-                "mode": "source",
+                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md"
+                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md"
               }
             }
           },
@@ -156,32 +156,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40ea04c391ce46ee",
+  "active": "c01d1c35aa372947",
   "lastOpenFiles": [
-    "RNN Реккурентные нейронные сети/Pasted image 20230821223917.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821204554.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821201540.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821195151.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821195148.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821195146.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821193826.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821190847.png",
-    "RNN Реккурентные нейронные сети/Pasted image 20230821184459.png",
+    "NN",
+    "Pasted image 20230821190847.png.md",
+    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+    "imgs/1.png",
+    "imgs/9.png",
+    "imgs/8.png",
+    "imgs/7.png",
+    "imgs/6.png",
+    "imgs/5.png",
+    "imgs/4.png",
+    "imgs/3.png",
+    "imgs/2.png",
+    "image_path.png.md",
+    "imgs/Pasted image 20230821223917.png",
+    "imgs",
+    "image_20230821184459.png.md",
     "999 Templates/Lecture.md",
-    "RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
-    "CNN/Convolutional Layer(Filter or Kernel).md",
-    "CNN/CNN.md",
+    "NN/CNN/Convolutional Layer(Filter or Kernel).md",
+    "NN/CNN/CNN.md",
     "Convolutional Layer (Filter / Kernel).md",
     "Convolutional Layer (Filter ",
-    "Pasted image 20230821223917.png",
-    "Pasted image 20230821204554.png",
-    "Back propagation.md",
-    "CNN",
-    "CNN/Feature maps.md",
+    "NN/Back propagation.md",
+    "NN/CNN",
+    "NN/CNN/Feature maps.md",
     "RNN Реккурентные нейронные сети/RNN.md",
     "999 Templates/1.md",
     "Lecture.md",
-    "RNN Реккурентные нейронные сети",
+    "NN/RNN Реккурентные нейронные сети",
     "999 Templates"
   ]
 }
