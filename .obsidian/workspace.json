@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "file": "999 Templates/Lecture.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "file": "999 Templates/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+                "file": "999 Templates/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md"
+                "file": "999 Templates/Lecture.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "28954d6f67d2ffde",
   "lastOpenFiles": [
+    "NN/CNN/CNN.md",
+    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
+    "README.md",
+    "999 Templates/Lecture.md",
     "NN/RNN Реккурентные нейронные сети/imgs/7.png",
     "NN/RNN Реккурентные нейронные сети/imgs/6.png",
     "NN/RNN Реккурентные нейронные сети/imgs/5.png",
@@ -167,18 +171,14 @@
     "NN/RNN Реккурентные нейронные сети/imgs/1.png",
     "NN/RNN Реккурентные нейронные сети/imgs",
     "imgs/6.png",
-    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
     "imgs/7.png",
     "imgs/5.png",
-    "imgs/4.png",
     "NN",
     "Pasted image 20230821190847.png.md",
     "image_path.png.md",
     "imgs",
     "image_20230821184459.png.md",
-    "999 Templates/Lecture.md",
     "NN/CNN/Convolutional Layer(Filter or Kernel).md",
-    "NN/CNN/CNN.md",
     "Convolutional Layer (Filter / Kernel).md",
     "Convolutional Layer (Filter ",
     "NN/Back propagation.md",
