@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c01d1c35aa372947",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/7.png"
-              }
-            }
-          },
-          {
-            "id": "85d98fea46198564",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/1.png"
-              }
-            }
-          },
-          {
-            "id": "1a17018bd4358829",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/6.png"
-              }
-            }
-          },
-          {
             "id": "28954d6f67d2ffde",
             "type": "leaf",
             "state": {
@@ -50,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,19 +158,22 @@
   },
   "active": "28954d6f67d2ffde",
   "lastOpenFiles": [
+    "NN/RNN Реккурентные нейронные сети/imgs/7.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/6.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/5.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/4.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/3.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/2.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/1.png",
+    "NN/RNN Реккурентные нейронные сети/imgs",
     "imgs/6.png",
     "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
     "imgs/7.png",
     "imgs/5.png",
     "imgs/4.png",
-    "imgs/3.png",
-    "imgs/2.png",
-    "imgs/1.png",
-    "imgs/7.png",
     "NN",
     "Pasted image 20230821190847.png.md",
     "image_path.png.md",
-    "imgs/Pasted image 20230821223917.png",
     "imgs",
     "image_20230821184459.png.md",
     "999 Templates/Lecture.md",
