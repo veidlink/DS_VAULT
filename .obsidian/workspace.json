@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Self-attention.md",
+                "file": "NN/NLP (Natural Language Processing)/Word2Vec.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Self-attention.md",
+                "file": "NN/NLP (Natural Language Processing)/Word2Vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Self-attention.md",
+                "file": "NN/NLP (Natural Language Processing)/Word2Vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Self-attention.md"
+                "file": "NN/NLP (Natural Language Processing)/Word2Vec.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "2cb9f9d85e1ec5e7",
   "lastOpenFiles": [
+    "NN/NLP (Natural Language Processing)/Self-attention.md",
     "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
     "NN/NLP (Natural Language Processing)/Multi-head attention.md",
     "NN/NLP (Natural Language Processing)/LSTM.md",
@@ -181,7 +182,6 @@
     "NN/CNN/Feature maps.md",
     "NN/CNN/Convolutional layer.md",
     "NN/CNN/CNN.md",
-    "NN/NLP (Natural Language Processing)/Self-attention.md",
     "Untitled.canvas",
     "NN/NLP (Natural Language Processing)/Word2Vec.md",
     "NN/NLP (Natural Language Processing)/imgs/30.png",
