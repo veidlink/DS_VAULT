@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24bff128246b2d50",
+        "id": "96d7986735238a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce09b60e6d41d00",
+            "id": "ea634a89012eae03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
+                "file": "NN/NLP (Natural Language Processing)/Attention.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -21,16 +21,20 @@
             }
           },
           {
-            "id": "d7abddd4777da3c3",
+            "id": "2cb9f9d85e1ec5e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/imgs/17.png"
+                "file": "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
+                "file": "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
+                "file": "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md"
+                "file": "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md"
               }
             }
           },
@@ -166,42 +170,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ce09b60e6d41d00",
+  "active": "2cb9f9d85e1ec5e7",
   "lastOpenFiles": [
-    "NN/RNN Реккурентные нейронные сети/imgs/21.png",
-    "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
-    "NN/RNN Реккурентные нейронные сети/Word2Vec.md",
-    "NN/RNN Реккурентные нейронные сети/imgs/17.png",
-    "NN/RNN Реккурентные нейронные сети/LSTM.md",
-    "NN/RNN Реккурентные нейронные сети/imgs/20.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/19.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/18.png",
-    "Pasted image 20230823011407.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/16.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/15.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/16.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/14.png",
-    "Pasted image 20230823001520.png",
-    "Word2Vec",
-    "999 Templates/Lecture.md",
+    "NN/NLP (Natural Language Processing)/Attention.md",
+    "NN/NLP (Natural Language Processing)/Encoder & Decoder.md",
+    "NN/NLP (Natural Language Processing)/Multi-head attention.md",
+    "NN/CNN/Padding.md",
+    "NN/CNN/Feature maps.md",
+    "NN/CNN/Convolutional layer.md",
     "NN/CNN/CNN.md",
+    "NN/NLP (Natural Language Processing)/Self-attention.md",
+    "Untitled.canvas",
+    "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
+    "NN/NLP (Natural Language Processing)/Word2Vec.md",
+    "NN/NLP (Natural Language Processing)/imgs/30.png",
+    "NN/NLP (Natural Language Processing)/imgs/29.png",
+    "NN/NLP (Natural Language Processing)/imgs/28.png",
+    "999 Templates/Lecture.md",
+    "NN/NLP (Natural Language Processing)/LSTM.md",
+    "NN/NLP (Natural Language Processing)/imgs/27.png",
+    "NN/NLP (Natural Language Processing)/imgs/7.png",
+    "NN/NLP (Natural Language Processing)/imgs/26.png",
+    "NN/NLP (Natural Language Processing)/imgs/25.png",
+    "NN/NLP (Natural Language Processing)/imgs/22.png",
+    "NN/NLP (Natural Language Processing)/imgs/24.png",
+    "NN/NLP (Natural Language Processing)/imgs/23.png",
+    "NN/NLP (Natural language processing).md",
+    "Word2Vec",
     "README.md",
-    "NN/RNN Реккурентные нейронные сети/imgs",
+    "NN/NLP (Natural Language Processing)/imgs",
     "NN",
     "Pasted image 20230821190847.png.md",
     "image_path.png.md",
     "imgs",
     "image_20230821184459.png.md",
-    "NN/CNN/Convolutional Layer(Filter or Kernel).md",
     "Convolutional Layer (Filter / Kernel).md",
     "Convolutional Layer (Filter ",
     "NN/Back propagation.md",
     "NN/CNN",
-    "NN/CNN/Feature maps.md",
     "RNN Реккурентные нейронные сети/RNN.md",
     "999 Templates/1.md",
     "Lecture.md",
-    "NN/RNN Реккурентные нейронные сети",
+    "NN/NLP (Natural Language Processing)",
     "999 Templates"
   ]
 }
