@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/Word2Vec.md",
-                "mode": "source",
+                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d7abddd4777da3c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NN/RNN Реккурентные нейронные сети/imgs/17.png"
               }
             }
           }
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/Word2Vec.md",
+                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/Word2Vec.md",
+                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NN/RNN Реккурентные нейронные сети/Word2Vec.md"
+                "file": "NN/RNN Реккурентные нейронные сети/LSTM.md"
               }
             }
           },
@@ -158,23 +168,24 @@
   },
   "active": "7ce09b60e6d41d00",
   "lastOpenFiles": [
-    "NN/RNN Реккурентные нейронные сети/imgs/14.png",
-    "Pasted image 20230823001520.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/13.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/12.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/11.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/10.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/5.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/4.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/21.png",
     "NN/RNN Реккурентные нейронные сети/RNN - Recurrent Neural Network.md",
     "NN/RNN Реккурентные нейронные сети/Word2Vec.md",
-    "NN/RNN Реккурентные нейронные сети/imgs/9.png",
-    "NN/RNN Реккурентные нейронные сети/imgs/8.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/17.png",
+    "NN/RNN Реккурентные нейронные сети/LSTM.md",
+    "NN/RNN Реккурентные нейронные сети/imgs/20.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/19.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/18.png",
+    "Pasted image 20230823011407.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/16.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/15.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/16.png",
+    "NN/RNN Реккурентные нейронные сети/imgs/14.png",
+    "Pasted image 20230823001520.png",
     "Word2Vec",
     "999 Templates/Lecture.md",
     "NN/CNN/CNN.md",
     "README.md",
-    "NN/RNN Реккурентные нейронные сети/imgs/7.png",
     "NN/RNN Реккурентные нейронные сети/imgs",
     "NN",
     "Pasted image 20230821190847.png.md",

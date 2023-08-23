@@ -1,5 +1,5 @@
 # 📚 References 
-- Tags :  #RNN 
+- Tags :  [[RNN - Recurrent Neural Network]]
 - Links: [Deep learning school](https://www.youtube.com/watch?v=WbtQzAvhnRI)
 
 # ❓ Questions
