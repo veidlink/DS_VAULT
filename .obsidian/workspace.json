@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe9cdc6d8ad0616",
+        "id": "5566f6762a0da9f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4de3e59dc5b383",
+            "id": "49fdfbc635876631",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,66 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08378ba6f49f28e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NN/NLP (Natural Language Processing)/Transformers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ae90fd58c3aaf2d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Понижение размерности/imgs/2.png"
+              }
+            }
+          },
+          {
+            "id": "4c1cda0b4b8f4fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Понижение размерности/PCA.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8579536866674523",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "65cc4335edb199d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Понижение размерности/SVD.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Transformers.md",
+                "file": "Понижение размерности/SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Transformers.md",
+                "file": "Понижение размерности/SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NN/NLP (Natural Language Processing)/Transformers.md"
+                "file": "Понижение размерности/SVD.md"
               }
             }
           },
@@ -156,49 +214,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b4de3e59dc5b383",
+  "active": "65cc4335edb199d3",
   "lastOpenFiles": [
+    "Понижение размерности/imgs/3.png",
     "NN/NLP (Natural Language Processing)/Word2Vec.md",
-    "NN/NLP (Natural Language Processing)/Attention.md",
-    "NN/NLP (Natural Language Processing)/imgs/38.png",
     "NN/NLP (Natural Language Processing)/Transformers.md",
+    "Понижение размерности/SVD.md",
+    "Понижение размерности/PCA.md",
+    "Понижение размерности/imgs/3.png",
+    "Понижение размерности/imgs/2.png",
+    "Понижение размерности/imgs",
+    "Понижение размерности",
+    "NN/NLP (Natural Language Processing)/Encoder & Decoder.md",
+    "SVD.md",
+    "Понижение размерности/imgs/1.png",
+    "NN/NLP (Natural Language Processing)/Self-attention.md",
+    "NN/NLP (Natural Language Processing)/Seq2Seq.md",
+    "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
+    "NN/NLP (Natural Language Processing)/LSTM.md",
+    "NN/NLP (Natural Language Processing)/BERT.md",
+    "NN/NLP (Natural Language Processing)/imgs/40.png",
+    "NN/NLP (Natural Language Processing)/Attention.md",
+    "NN/NLP (Natural Language Processing)/Multi-head Self-attention.md",
+    "Transformer.md",
+    "NN/NLP (Natural Language Processing)/Positional Encoding.md",
+    "NN/NLP (Natural Language Processing)/imgs/39.png",
+    "NN/NLP (Natural Language Processing)/imgs/21.png",
+    "NN/Back propagation.md",
+    "NN/NLP (Natural Language Processing)/imgs/38.png",
     "Untitled.canvas",
     "NN/NLP (Natural Language Processing)/LayerNorm.md",
-    "NN/NLP (Natural Language Processing)/Seq2Seq.md",
     "NN/Batch-normalization.md",
     "NN/NLP (Natural Language Processing)/imgs/37.png",
     "NN/NLP (Natural Language Processing)/imgs/36.png",
-    "NN/NLP (Natural Language Processing)/Positional Encoding.md",
-    "NN/NLP (Natural Language Processing)/Self-attention.md",
-    "NN/NLP (Natural Language Processing)/Multi-head Self-attention.md",
     "NN/NLP (Natural Language Processing)/imgs/35.png",
-    "NN/NLP (Natural Language Processing)/imgs/34.png",
-    "NN/NLP (Natural Language Processing)/Encoder & Decoder.md",
-    "NN/NLP (Natural Language Processing)/imgs/33.png",
-    "NN/NLP (Natural Language Processing)/imgs/32.png",
-    "NN/NLP (Natural Language Processing)/imgs/31.png",
-    "Pasted image 20230823201844.png",
     "NLP (Natural language processing).md",
-    "NN/NLP (Natural Language Processing)/LSTM.md",
-    "NN/NLP (Natural Language Processing)/RNN - Recurrent Neural Network.md",
     "NN/CNN/Padding.md",
     "NN/CNN/Feature maps.md",
     "NN/CNN/Convolutional layer.md",
     "NN/CNN/CNN.md",
-    "NN/NLP (Natural Language Processing)/imgs/30.png",
     "999 Templates/Lecture.md",
     "NN/NLP (Natural language processing).md",
     "Word2Vec",
-    "README.md",
     "NN/NLP (Natural Language Processing)/imgs",
     "NN",
-    "Pasted image 20230821190847.png.md",
-    "image_path.png.md",
     "imgs",
-    "image_20230821184459.png.md",
-    "Convolutional Layer (Filter / Kernel).md",
     "Convolutional Layer (Filter ",
-    "NN/Back propagation.md",
     "NN/CNN",
     "NN/NLP (Natural Language Processing)",
     "999 Templates"

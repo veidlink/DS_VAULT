@@ -1,5 +1,5 @@
 # 📚 References 
-- Tags :  [[Attention]] [[Bert]] [[Transformer]]
+- Tags :  [[Attention]] [[BERT]] [[Transformer]]
 - Links: [Презентация](https://github.com/veidlink/ds-phase-2/blob/master/slides/attend&transform.pdf)
 
 # ❓ Questions
